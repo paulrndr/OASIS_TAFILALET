@@ -5,8 +5,17 @@ L'oasis du Tafilalet est un écosystème fragile. Ce projet propose une approche
 1.  **Segmentation Sémantique (U-Net)** : Classification de l'occupation du sol pour identifier les zones de palmeraies, les zones urbaines et les sols nus, les habitations, les points d'eau.
 2.  **Prédiction Temporelle (ConvLSTM)** : Modélisation de l'évolution future du terrain basée sur des séries temporelles d'images satellites.
 ## Architecture des modèles
-![Architecture UNet](./models/Architecture_UNET.png)
-![Architecture CONVLSTM](./models/Architecture_CONVLSTM.png)
+<p align="center">
+  <img src="./models/Architecture_UNET.png" alt="Architecture UNet" width="700">
+  <br>
+  <i>Architecture du modèle U-Net pour la segmentation de l'oasis.</i>
+</p>
+
+<p align="center">
+  <img src="./models/Architecture_CONVLSTM.png" alt="Architecture CONVLSTM" width="700">
+  <br>
+  <i>Architecture du modèle CONVLSTM pour la prédiction de l'oasis.</i>
+</p>
 ## Stack Technique
 *   **Langage** : Python (Jupyter Notebooks)
 *   **Deep Learning** : TensorFlow / Keras

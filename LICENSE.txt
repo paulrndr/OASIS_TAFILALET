@@ -1,0 +1,27 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Copyright (c) 2024 Paul Renardier, Mathis Ehkirch, Soma Kouyate, Darly Junior Nguema, Emmanuel Bibang.
+
+Project: Tafilalet Oasis - Deep Learning & Big Data Monitoring
+Supervised by: Badr-Eddine Benelmostafa, Sohaid Baroud.
+
+--------------------------------------------------------------------------------
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+
+To view a copy of this license, visit:
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+YOU ARE FREE TO:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.
+
+UNDER THE FOLLOWING TERMS:
+1. Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.[cite: 1]
+
+2. NonCommercial — You may not use the material for commercial purposes. This prevents third parties from selling your work or using it for profit without your explicit permission.[cite: 1, 2]
+
+3. ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.[cite: 1]
+
+NOTICES:
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.

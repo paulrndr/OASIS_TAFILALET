@@ -1,1 +1,16 @@
+tensorflow>=2.10.1
+keras
+numpy
+scikit-learn
+pickle
+matplotlib
+IPython
+seaborn
+os
+heapq
+rasterio
+geopandas
 
+# Notebook environment
+jupyter
+ipykernel

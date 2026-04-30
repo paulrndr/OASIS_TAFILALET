@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mask4_2014_rot270",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32630" } },
+"features": [
+{ "type": "Feature", "properties": { "type": 4 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 334335.0, 3522915.0 ], [ 334335.0, 3519795.0 ], [ 337455.0, 3519795.0 ], [ 337455.0, 3522915.0 ], [ 334335.0, 3522915.0 ] ] ] } }
+]
+}

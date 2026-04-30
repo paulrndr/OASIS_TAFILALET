@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mask4_2010_rot180",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32630" } },
+"features": [
+{ "type": "Feature", "properties": { "type": 3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 364875.0, 3500955.0 ], [ 364875.0, 3497835.0 ], [ 367995.0, 3497835.0 ], [ 367995.0, 3500955.0 ], [ 364875.0, 3500955.0 ] ] ] } }
+]
+}

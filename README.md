@@ -16,6 +16,7 @@ L'oasis du Tafilalet est un écosystème fragile. Ce projet propose une approche
   <br>
   <i>Architecture du modèle CONVLSTM pour la prédiction de l'oasis.</i>
 </p>
+
 ## Stack Technique
 *   **Langage** : Python (Jupyter Notebooks)
 *   **Deep Learning** : TensorFlow / Keras

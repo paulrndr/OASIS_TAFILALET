@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Renardier"
+    given-names: "Paul"
+  - family-names: "Ehkirch"
+    given-names: "Mathis"
+  - family-names: "Kouyate"
+    given-names: "Soma"
+  - family-names: "Nguema"
+    given-names: "Darly Junior"
+  - family-names: "Bibang"
+    given-names: "Emmanuel"
+  - family-names: "Benelmostafa"
+    given-names: "Badr_Edinne"
+  - family-names: "Baroud"
+    given-names: "Sohaib"
+title: "Tafilalet Oasis Monitoring: Deep Learning & Big Data"
+version: 1.0.0
+date-released: 2024-05-01

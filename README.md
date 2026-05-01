@@ -29,3 +29,17 @@ L'oasis du Tafilalet est un écosystème fragile. Ce projet propose une approche
 Projet réalisé par une équipe de 5 étudiants sous la direction de 2 professeurs (Master IA & Big Data).
 *   **Étudiants** : Paul Renardier , Mathis Ehkirch, Soma Kouyate, Darly Junior Nguema, Emmanuel Bibang.
 *   **Superviseurs** : Badr-Eddine Benelmostafa, Sohaid Baroud.
+## Licence
+
+Ce projet est sous licence **Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
+
+Vous êtes libre de :
+*   **Partager** — copier et redistribuer le matériel sous n'importe quel format.
+*   **Adapter** — remixer, transformer et transformer le matériel.
+
+Selon les conditions suivantes :
+*   **Attribution** — Vous devez créditer le travail, fournir un lien vers la licence et indiquer si des modifications ont été effectuées.
+*   **Pas d’Utilisation Commerciale** — Vous n'êtes pas autorisé à faire un usage commercial de ce matériel ou de toute partie de celui-ci.
+*   **Partage dans les Mêmes Conditions** — Si vous modifiez le matériel, vous devez diffuser vos contributions sous la même licence que l'original.
+
+L'intégralité du texte juridique est consultable ici : [CC BY-NC-SA 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/).
